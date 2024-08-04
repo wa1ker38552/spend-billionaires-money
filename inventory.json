@@ -1,0 +1,182 @@
+{
+  "bananna": {
+    "name": "Bananna",
+    "price": 50,
+    "icon": "\ud83c\udf4c"
+  },
+  "apple": {
+    "name": "Apple",
+    "price": 1,
+    "icon": "\ud83c\udf4e"
+  },
+  "pineapple": {
+    "name": "Pineapple",
+    "price": 2,
+    "icon": "\ud83c\udf4d"
+  },
+  "ferrari": {
+    "name": "Ferrari",
+    "price": 250000,
+    "icon": "\ud83c\udfce\ufe0f"
+  },
+  "gaming pc": {
+    "name": "Gaming Pc",
+    "price": 1000,
+    "icon": "\ud83d\udda5\ufe0f"
+  },
+  "monitor": {
+    "name": "Monitor",
+    "price": 300,
+    "icon": "\ud83d\udda5\ufe0f"
+  },
+  "iphone 13": {
+    "name": "Iphone 13",
+    "price": 700,
+    "icon": "\ud83d\udcf1"
+  },
+  "botball plushie": {
+    "name": "Botball Plushie",
+    "price": 20,
+    "icon": "\ud83e\uddf8"
+  },
+  "samsung galaxybook 4": {
+    "name": "Samsung Galaxybook 4",
+    "price": 1000,
+    "icon": "\ud83d\udcbb"
+  },
+  "iphone 15 pro max": {
+    "name": "Iphone 15 Pro Max",
+    "price": 1200,
+    "icon": "\ud83d\udcf1"
+  },
+  "refurbished iphone se": {
+    "name": "Refurbished Iphone Se",
+    "price": 250,
+    "icon": "\ud83d\udcf1"
+  },
+  "international space station": {
+    "name": "International Space Station",
+    "price": 150000000000,
+    "icon": "\ud83d\udef0\ufe0f"
+  },
+  "lego millenium falcon": {
+    "name": "Lego Millenium Falcon",
+    "price": 800,
+    "icon": "\ud83d\ude80"
+  },
+  "mega mansion": {
+    "name": "Mega Mansion",
+    "price": 100000000,
+    "icon": "\ud83c\udfe0"
+  },
+  "mansion": {
+    "name": "Mansion",
+    "price": 5000000,
+    "icon": "\ud83c\udfe0"
+  },
+  "nyc apartment": {
+    "name": "Nyc Apartment",
+    "price": 1000000,
+    "icon": "\ud83c\udfe2"
+  },
+  "charzard pokemon card": {
+    "name": "Charzard Pokemon Card",
+    "price": 1000,
+    "icon": "\ud83d\udd25"
+  },
+  "iphone 1": {
+    "name": "Iphone 1",
+    "price": 600,
+    "icon": "\ud83d\udcf1"
+  },
+  "elon musk": {
+    "name": "Elon Musk",
+    "price": 200000000000,
+    "icon": "\ud83d\udc68\u200d\ud83d\ude80"
+  },
+  "asus vivobook 15": {
+    "name": "Asus Vivobook 15",
+    "price": 700,
+    "icon": "\ud83d\udcbb"
+  },
+  "space shuttle enterprice": {
+    "name": "Space Shuttle Enterprice",
+    "price": 20000000,
+    "icon": "\ud83d\ude80"
+  },
+  "f-22": {
+    "name": "F-22",
+    "price": 150000000,
+    "icon": "\u2708\ufe0f"
+  },
+  "airbus a380": {
+    "name": "Airbus A380",
+    "price": 446000000,
+    "icon": "\u2708\ufe0f"
+  },
+  "car keys": {
+    "name": "Car Keys",
+    "price": 20,
+    "icon": "\ud83d\udd11"
+  },
+  "shack": {
+    "name": "Shack",
+    "price": 50000,
+    "icon": "\ud83c\udfe0"
+  },
+  "couch": {
+    "name": "Couch",
+    "price": 500,
+    "icon": "\ud83d\udecb\ufe0f"
+  },
+  "nvidia stock": {
+    "name": "Nvidia Stock",
+    "price": 200,
+    "icon": "\ud83d\udcc8"
+  },
+  "lego set": {
+    "name": "Lego Set",
+    "price": 100,
+    "icon": "\ud83e\uddf1"
+  },
+  "airpods": {
+    "name": "Airpods",
+    "price": 170,
+    "icon": "\ud83c\udfa7"
+  },
+  "lotus emira": {
+    "name": "Lotus Emira",
+    "price": 90000,
+    "icon": "\ud83c\udfce\ufe0f"
+  },
+  "mouse": {
+    "name": "Mouse",
+    "price": 20,
+    "icon": "\ud83d\uddb1\ufe0f"
+  },
+  "pencil": {
+    "name": "Pencil",
+    "price": 1,
+    "icon": "\u270f\ufe0f"
+  },
+  "pen": {
+    "name": "Pen",
+    "price": 2,
+    "icon": "\ud83d\udd8a\ufe0f"
+  },
+  "cruise ship": {
+    "name": "Cruise Ship",
+    "price": 1000000000,
+    "icon": "\ud83d\udea2"
+  },
+  "keyboard": {
+    "name": "Keyboard",
+    "price": 100,
+    "icon": "\u2328\ufe0f"
+  },
+  "trophy": {
+    "name": "Trophy",
+    "price": 50,
+    "icon": "\ud83c\udfc6"
+  }
+}

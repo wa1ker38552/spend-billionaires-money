@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spend Billionare Money</title>
+        <link rel="stylesheet" href="/static/style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+        <script src="/static/script.js"></script>
+    </head>
+    <body class="centered-children">
+        <div class="wrapper">
+            <div class="header">
+                <h1>Spend <span id="targetBillionaire">___'s</span> Money</h1>
+                <div class="break"></div>
+                <h2 class="dollars"><span id="total">$0</span></h2>
+            </div>
+            <div class="billionaire-container">
+                <h3>Choose your billionaire</h3>
+                <input id="billionaireSearch" class="search-bar" placeholder="Search..." type="text" autocomplete="off" spellcheck="false">
+                <div class="billionaire-results"></div>
+            </div>
+            <div class="spend-container">
+                <div class="centered-vertically" style="gap: 1rem; position: relative">
+                    <h3>Buy Items</h3>
+                    <img class="reload-button" src="/static/reload.png" title="Reload items" onclick="reloadItems()">
+                </div>
+                <input id="buySearch" class="search-bar" placeholder="Add Item" type="text" autocomplete="off" spellcheck="false">
+                <div class="centered-children">
+                    <div id="searchResults"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
